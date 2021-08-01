@@ -10,3 +10,8 @@ This project depend on [Adebasquer's AokanaPatcher](https://github.com/Adebasque
 
 # Cách để cài đặt
 Dự án này dựa trên [AokanaPatcher của Adebasquer](https://github.com/Adebasquer/AokanaPatch), một plugin cho [BepInEx](https://bepinex.github.io/), xin hãy tới repo của cả hai dự án để thiết lập môi trường cần thiết cho mod này hoạt động.
+
+# The Goal of This Project 
+• Fully translate the game to Vietnamese
+• Restoring some of the touches that were omitted from the game
+• To learn more about the game inner working, and unity in general.
