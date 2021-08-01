@@ -1,5 +1,6 @@
 # Aokana Extra 1 - Bad Vietnamese Translation Project
 The solo Vietnamese translation project for Aokana EXTRA 1. No ETA
+
 Dự án dịch solo Aokana EXTRA 1 sang Tiếng Việt. Không ETA
 
 ![screenshot](https://media.discordapp.net/attachments/871047524885098576/871085917534838854/unknown.png?width=833&height=468)
