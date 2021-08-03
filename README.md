@@ -3,6 +3,8 @@ The solo Vietnamese translation project for Aokana EXTRA 1. No ETA
 
 Dự án dịch solo Aokana EXTRA 1 sang Tiếng Việt. Không ETA
 
+There's nothing here at the moment, the repo will be update once the project is in a better shape
+
 ![screenshot](https://media.discordapp.net/attachments/871047524885098576/871085917534838854/unknown.png?width=833&height=468)
 
 # How to get it working. 
