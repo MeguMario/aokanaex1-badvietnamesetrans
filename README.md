@@ -15,10 +15,6 @@ Dự án này dựa trên [AokanaPatcher của Adebasquer](https://github.com/Ad
 
 # The Goal of This Project 
 • Fully translate the game to Vietnamese.    
-• Restoring some of the touches that were omitted from the steam version of the game.   
-• To learn more about the game inner working, and unity in general.
 
 # Mục tiêu của dự án này
 • Dịch hoàn toàn game này sang Tiếng Việt.    
-• Khôi phục những chỉ tiết nhỏ đã bị cắt trong phiên bản phát hành trên Steam của game.    
-• Biết thêm về cách game hoạt động, và unity nói chung.    
